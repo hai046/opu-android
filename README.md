@@ -4,6 +4,17 @@ opu-android
 使用opus 编码音频
 
 
+
+
+opus 效果：
+
+压缩pcm 非常高，
+相同条件下 wav格式的文件比opus文件 的比例是 15:1 或者更高 
+
+
+
+
+
 步骤
 
 1，下载opus 源码 当前是1.1 版本 http://www.opus-codec.org/downloads/
