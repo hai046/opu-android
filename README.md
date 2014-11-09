@@ -9,8 +9,9 @@ opu-android
 1，下载opus 源码 当前是1.1 版本 http://www.opus-codec.org/downloads/
 
 2,编写Android.mk
+
 LOCAL_PATH := $(call my-dir)
-# opus version=1.1  http://www.opus-codec.org/downloads/
+#// opus version=1.1  http://www.opus-codec.org/downloads/
 include $(CLEAR_VARS)
 
 LOCAL_MODULE        := libopus
