@@ -23,7 +23,7 @@ opus 效果：
 2,编写Android.mk
 
 LOCAL_PATH := $(call my-dir)
-#// opus version=1.1  http://www.opus-codec.org/downloads/
+/# opus version=1.1  http://www.opus-codec.org/downloads/
 include $(CLEAR_VARS)
 
 LOCAL_MODULE        := libopus
